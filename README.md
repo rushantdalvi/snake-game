@@ -90,3 +90,6 @@ Place the following files in the project directory:
 
 
 ## 📷 Screenshots
+<img width="913" height="644" alt="image" src="https://github.com/user-attachments/assets/204e2e4a-d5b1-4270-b7ab-9e0606c260a7" />
+<img width="912" height="637" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/471d91da-0b5f-49b8-b82b-5679a7f5ad5f" />
+
