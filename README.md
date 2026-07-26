@@ -90,8 +90,8 @@ Place the following files in the project directory:
 
 
 ## 📷 Preview
-<img width="913" height="644" alt="image" src="https://github.com/user-attachments/assets/204e2e4a-d5b1-4270-b7ab-9e0606c260a7" />
-<img width="912" height="637" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/471d91da-0b5f-49b8-b82b-5679a7f5ad5f" />
+<img width="905" height="632" alt="Screenshot 2026-07-26 183422" src="https://github.com/user-attachments/assets/175432f9-f05d-4cd3-91bf-cc0764f6a10f" />
+<img width="905" height="635" alt="img" src="https://github.com/user-attachments/assets/2518592f-3df3-45d9-89f4-838a7b5f08df" />
 <img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/0568d700-ba88-4b7a-b03a-01d3b993e39b" />
 
 
